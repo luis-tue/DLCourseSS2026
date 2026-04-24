@@ -11,5 +11,5 @@ done message="Update":
     git push
 
 update:
-    git pull --rebase upstream
+    git pull --rebase upstream main
     
